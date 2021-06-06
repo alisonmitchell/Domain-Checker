@@ -15,6 +15,6 @@ Test dataset created for the purpose of testing the algorithm.
 
 ## Requirements
 
-Python 3.8.x
-whois: a Python wrapper of a client for WHOIS directory service
-click: a Python package for creating command line interfaces
+* Python 3.8.x
+* whois: a Python wrapper of a client for WHOIS directory service
+* click: a Python package for creating command line interfaces
